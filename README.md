@@ -1,6 +1,6 @@
 
 <img src="https://fabianantunes.com.br/wp-content/uploads/2018/05/happy-hacker.gif" width=500px > 
-- 🌱 I’m currently learning **all about cyber security**
+- 🌱 I'm studying everything **I can about cyber security right now**
 
 
 <p align="left">

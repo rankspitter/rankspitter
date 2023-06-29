@@ -17,8 +17,8 @@
 <a href="https://app.hackthebox.com" target="__blank"><img align="center" src="https://tech.eu/wp-content/uploads/2019/04/Hack-The-Box-logo.png" alt="Hack The Box" height="70" width="170" /></a>
 <a href="https://tryhackme.com" target="__blank"><img align="center" src="https://muirlandoracle.co.uk/wp-content/uploads/2020/01/THM-Header.png" alt="Try Hack Me" height="55" width="200" /></a>
 <a href="https://pentesterlab.com" target="__blank"> <img align="center" src="https://pentesterlab.com/newdesign/imgs/logo.png" alt="PentesterLab" height="55" width="235" /></a>
-<a href="https://blueteamlabs.online" target="__blank"> <img align="center" src="https://blueteamlabs.online/images/logo.png" alt="Blue Team Labs Online" height="80" width="80" /> </a>
-
+<a href="https://blueteamlabs.online" target="__blank"> <img align="center" src="https://blueteamlabs.online/images/logo.png" alt="Blue Team Labs Online" height="80" width="100" /> </a>
+<a href="https://www.cybrary.it/" target="__blank"> <img align="center" src="https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/6459f4a5613941f629069dc2_Logo-Full-White.svg" alt="cybrary" height="80" width="100" /> </a>
 
 
 

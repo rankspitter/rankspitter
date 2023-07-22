@@ -1,6 +1,6 @@
 
 <img src="https://fabianantunes.com.br/wp-content/uploads/2018/05/happy-hacker.gif" width=500px > 
-<script src="https://tryhackme.com/badge/2085940"></script>
+<img src="https://tryhackme.com/badge/2085940">
 
 - 🌱 I'm studying everything **I can about cyber security right now**
 

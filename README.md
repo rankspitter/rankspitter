@@ -12,7 +12,7 @@
 
 | Team |challenges |
 | ------ | ------ |
-| I'm in| [DownUnderCTF 2023] [https://play.duc.tf/teams/152] |
+| I'm in| DownUnderCTF 2023 [https://play.duc.tf/teams/152] |
 
 
 <p align="left">

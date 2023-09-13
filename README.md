@@ -13,7 +13,7 @@
 | Team |challenges |
 | ------ | ------ |
 | I'm in| DownUnderCTF 2023 [https://sv1.picz.in.th/images/2023/09/14/dWn5FAE.png] |
-| I'm in| PatriotCTF 2023 [(https://sv1.picz.in.th/images/2023/09/14/dWn5y1v.png)] |
+| | PatriotCTF 2023 [(https://sv1.picz.in.th/images/2023/09/14/dWn5y1v.png)] |
 
 
 <p align="left">

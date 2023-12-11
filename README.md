@@ -3,7 +3,7 @@
 
 
 
-<script src="https://tryhackme.com/badge/2085940"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/PXDX.png" alt="TryHackMe">
 
 - 🌱 I'm studying everything **I can about cyber security right now**
 

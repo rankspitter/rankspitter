@@ -5,7 +5,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/PXDX.png" alt="TryHackMe">
 
-- 🌱 I'm learning red team skills.
+- 🌱 I'm studying penetration testing.
 
 
 ## CTF Challenges

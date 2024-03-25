@@ -10,9 +10,6 @@
 
 ## CTF Challenges
 
-
-challenges
-
 DownUnderCTF 2023
 ![ductf-certificate](https://github.com/rankspitter/rankspitter/assets/51523749/d47be345-a2a6-41d1-8291-6e88b8df230c)
 

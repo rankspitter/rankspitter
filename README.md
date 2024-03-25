@@ -14,15 +14,14 @@
 | Team |challenges |
 | ------ | ------ |
 | I'm in| DownUnderCTF 2023
- 
+![ductf-certificate](https://github.com/rankspitter/rankspitter/assets/51523749/d47be345-a2a6-41d1-8291-6e88b8df230c)
 |
 | | PatriotCTF 2023 
 ![pctf-cert](https://github.com/rankspitter/rankspitter/assets/51523749/a817c41d-8531-4e04-af9d-7c8cf4cfc615)
 
 |
 | | Thailand Cyber Top Talent 2023
-![Uploading 28.png…]()
-
+![28](https://github.com/rankspitter/rankspitter/assets/51523749/043a0cc7-9cd3-4aed-931f-03d678dcce2a)
 |
 
 

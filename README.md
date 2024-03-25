@@ -13,9 +13,9 @@
 
 | Team |challenges |
 | ------ | ------ |
-| I'm in| DownUnderCTF 2023 [https://sv1.picz.in.th/images/2023/09/14/dWn5FAE.png] |
-| | PatriotCTF 2023 [https://sv1.picz.in.th/images/2023/09/14/dWn5y1v.png] |
-| | Thailand Cyber Top Talent 2023 [[https://sv1.picz.in.th/images/2023/10/16/ddR9k50.png] |
+| I'm in| DownUnderCTF 2023 [![Uploading ductf-certificate.png…]()] |
+| | PatriotCTF 2023 [![pctf-cert](https://github.com/rankspitter/rankspitter/assets/51523749/eb96737d-0b68-423b-b6a0-6c8befb81616)] |
+| | Thailand Cyber Top Talent 2023 []|
 
 
 

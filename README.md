@@ -13,6 +13,9 @@
 DownUnderCTF 2023
 ![ductf-certificate](https://github.com/rankspitter/rankspitter/assets/51523749/d47be345-a2a6-41d1-8291-6e88b8df230c)
 
+DownUnderCTF 2024
+![pxdx-certificate](https://github.com/rankspitter/rankspitter/assets/51523749/172c2b54-33ef-44d5-b86f-07ec33e7439f)
+
 PatriotCTF 2023 
 ![pctf-cert](https://github.com/rankspitter/rankspitter/assets/51523749/a817c41d-8531-4e04-af9d-7c8cf4cfc615)
 

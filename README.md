@@ -39,7 +39,9 @@ I am a third-year computer engineering student at Continuing Education intereste
 <img width="25%" align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjUzZ29jZGFscXB0djR4ZG9xNDFyc2ZjZndoY3NyNHpza2k4dXZ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25YYzRZI9laBFiq8T8/giphy.gif">
 
 🐱‍💻 Still Learning Ethical Hacking & Penetration testing.
+
 🐱‍💻 CTF player.
+
 🐱‍💻 third-year computer engineering
 
 

@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q1ODExbmpoYnoyZnQzaXl6cnpvbHpwejYzcDdyZmNkeWNhcWdudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G36TC1J2hXzw2qjG0i/giphy.gif" width="100%" height="50%"/></p>
+<p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q1ODExbmpoYnoyZnQzaXl6cnpvbHpwejYzcDdyZmNkeWNhcWdudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G36TC1J2hXzw2qjG0i/giphy.gif" width="50%" height="50%"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -99,7 +99,6 @@ I am a third-year computer engineering student at Continuing Education intereste
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rankspitter&show_icons=true&locale=en" alt="rankspitter" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rankspitter&" alt="rankspitter" /></p>
 
 
 

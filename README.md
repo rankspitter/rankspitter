@@ -80,17 +80,17 @@ I am a third-year computer engineering student at Continuing Education intereste
 
 ---
 ## CTF Challenges
-DownUnderCTF 2023
-![ductf-certificate](https://github.com/rankspitter/rankspitter/assets/51523749/d47be345-a2a6-41d1-8291-6e88b8df230c)
+  <h2>CTF Challenges</h2>
+        <ul>
+            <li>DownUnderCTF 2023</li>
+            <li>DownUnderCTF 2024</li>
+            <li>PatriotCTF 2023 </li>
+            <li>Thailand Cyber Top Talent 2023</li>
+            <li>Thailand Cyber Top Talent 2024</li>
+        </ul>
+        <p align="center"><img src="https://github.com/user-attachments/assets/9d85429c-f03d-47df-9dac-ff2eb7305a6e" width="100%" height="50%"></p> 
 
-DownUnderCTF 2024
-![pxdx-certificate](https://github.com/rankspitter/rankspitter/assets/51523749/172c2b54-33ef-44d5-b86f-07ec33e7439f)
 
-PatriotCTF 2023 
-![pctf-cert](https://github.com/rankspitter/rankspitter/assets/51523749/a817c41d-8531-4e04-af9d-7c8cf4cfc615)
-
-Thailand Cyber Top Talent 2023
-![28](https://github.com/rankspitter/rankspitter/assets/51523749/043a0cc7-9cd3-4aed-931f-03d678dcce2a)
 
 
 <h2 id="github_stats" align=''>GitHub Stats </h2>

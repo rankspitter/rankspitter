@@ -12,7 +12,7 @@
 
 
 <h2 align="left">
-  Hi there
+  Hi
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNib3d4d2dyaGhjMnEzendzank3amM0cmowMTZ2M3EwNTlwcG53ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yASFCj2K0MGeASqSom/giphy.gif" width="25px"/>
 </h2>
 

@@ -80,8 +80,7 @@ I am a third-year computer engineering student at Continuing Education intereste
 
 ---
 ## CTF Challenges
-  <h2>CTF Challenges</h2>
-        <ul>
+  <ul>
             <li>DownUnderCTF 2023</li>
             <li>DownUnderCTF 2024</li>
             <li>PatriotCTF 2023 </li>

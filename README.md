@@ -27,7 +27,7 @@ I am a third-year computer engineering student at Continuing Education intereste
 - I have experience with CTF challenges, including reverse engineering, PWN, OSINT, web, and network.
 - I’m currently learning **everything about cybersecurity & ethical hacking🙀** 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/PXDX.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/PXDX.png" alt="Your Image Badge" />
 
 </details>
 <br>

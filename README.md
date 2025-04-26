@@ -16,7 +16,17 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNib3d4d2dyaGhjMnEzendzank3amM0cmowMTZ2M3EwNTlwcG53ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yASFCj2K0MGeASqSom/giphy.gif" width="25px"/>
 </h2>
 
-I am a third-year computer engineering student at Continuing Education interested in ethical hacking and penetration testing. I am now ready to gain experience in the real world..
+
+I study systems to understand how they fall apart — and how to break in before others do.
+
+My focus lies in ethical hacking, penetration testing, and red teaming. I enjoy thinking like an adversary, but acting with purpose.
+
+Inspired by Machiavelli, I believe power lies not just in knowledge, but in how it’s applied — quietly, strategically, and with intent.
+
+“The wise man does at once what the fool does finally.”
+
+I’m not here to impress. I’m here to understand, to exploit — ethically — and to grow.
+
 
 
 <details>
